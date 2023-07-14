@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TemporizadorEntrenamiento.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/primario</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/boxing</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <!--<item name="android:windowSplashScreenBrandingImage">@drawable/letras</item>-->
+        <item name="postSplashScreenTheme">@style/Theme.TemporizadorEntrenamiento</item>
+    </style>
+</resources>

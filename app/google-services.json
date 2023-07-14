@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456087955031",
+    "project_id": "temporizadorentrenamiento",
+    "storage_bucket": "temporizadorentrenamiento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456087955031:android:939c91d8df507813996512",
+        "android_client_info": {
+          "package_name": "com.example.temporizadorentrenamiento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456087955031-jtbgk2igenurbhm330t2nj6g04g7ftbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA69RSvTZzlkDggeUpJJiabEeYS2JqXE8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456087955031-jtbgk2igenurbhm330t2nj6g04g7ftbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
