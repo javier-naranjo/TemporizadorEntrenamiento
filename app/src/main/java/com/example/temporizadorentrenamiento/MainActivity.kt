@@ -12,7 +12,7 @@ import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.compose.AppTheme
+import com.example.temporizadorentrenamiento.ui.theme.AppTheme
 import com.example.temporizadorentrenamiento.entrenamiento.ui.EntrenoViewModel
 import com.example.temporizadorentrenamiento.entrenamiento.ui.Principal
 import com.example.temporizadorentrenamiento.entrenamiento.ui.SplashScreen
